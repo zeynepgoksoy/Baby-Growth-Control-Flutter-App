@@ -1,6 +1,9 @@
-# bitirme2
+# Newborn Growth Control Flutter App
 
-A new Flutter project.
+FLutter project that controls the growth of newborn babies by months.
+The project has 2 interface : users as parents and users as doctors.  Firebase used as database to store each users login information and profile informations.
+Parent users can sign in/up and add a baby as object to their profile and update their growth by monthly routine controls. 
+Doctor users can sign in/up and control the patient's (baby) health information by making a query with patient's TC number. 
 
 ## Getting Started
 
